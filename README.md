@@ -1,2 +1,2 @@
-# markets_app
+# Market App
 Basic market app using flask
